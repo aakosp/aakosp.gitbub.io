@@ -2,7 +2,7 @@ Jekyll博客模板
 ================
 
 #### 1.浏览
-https://aakosp.github.io/blog/, 支持PC与智能机访问。  
+https://aakosp.github.io/, 支持PC与智能机访问。  
 
 #### 2.模板使用
 修改_config.yml与_includes目录下相关文件进行配置。  
@@ -10,8 +10,8 @@ https://aakosp.github.io/blog/, 支持PC与智能机访问。
 模板可任意使用，但请保留本站友情链接。  
 
 #### 3.联系作者
-QQ交流群: 168563980  
-Github：https://github.com/panxw  
+QQ: 297540097  
+Github：https://github.com/aakosp  
 
 
 ## License
