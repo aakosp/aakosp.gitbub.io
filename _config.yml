@@ -11,7 +11,7 @@ name: "张良个人博客"
 baseurl: /
 all_categories: [
 ["android", "Android开发","/posts/android.html"], 
-["program", "软件编程","/posts/program.html"],
+["springboot", "springboot","/posts/springboot.html"],
 ["docker", "docker","/posts/docker.html"],
 ["linux", "Linux相关","/posts/linux.html"],
 ["read", "读书笔记","/posts/read.html"], 
