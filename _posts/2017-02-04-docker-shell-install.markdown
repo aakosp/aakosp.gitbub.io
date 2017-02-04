@@ -4,8 +4,8 @@ category: "docker"
 title:  "Docker脚本安装"
 tags: [docker]
 ---
-curl -fsSL [https://get.docker.com](https://get.docker.com) \|sudo sh
-安装成功后会告知用户如何使用非root权限操作Docker。
+#### curl -fsSL [https://get.docker.com](https://get.docker.com) \|sudo sh
+#### 安装成功后会告知用户如何使用非root权限操作Docker。
 ```
 If you would like to use Docker as a non-root user, you should now consider
 adding your user to the “docker” group with something like:
