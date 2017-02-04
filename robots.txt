@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://aakosp.github.io/blog/atom.xml
+Sitemap: https://aakosp.github.io/atom.xml
