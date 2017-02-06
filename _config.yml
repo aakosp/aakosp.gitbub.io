@@ -14,7 +14,7 @@ all_categories: [
 ["springboot", "SpringBoot","/posts/springboot.html"],
 ["docker", "docker","/posts/docker.html"],
 ["linux", "Linux相关","/posts/linux.html"],
-["read", "读书笔记","/posts/read.html"], 
+["Java", "Java开发","/posts/java.html"],
 ["other", "杂记","/posts/other.html"],
 ["about", "关于","/about.html"]
 ]

@@ -5,7 +5,7 @@ title: "关于：About"
 Welcome to visit my blog!
 
 #### 1.Personal Info
-Name: Xuewen Pan(张良)  
+Name: Zhang Liang(张良)
 Gender: Male  
 City: ZhengZhou, China  
 Career: Software developer(Android&Java)  
